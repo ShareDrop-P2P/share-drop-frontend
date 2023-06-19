@@ -1,0 +1,14 @@
+<template>
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    preserveAspectRatio="xMidYMid meet"
+    viewBox="0 0 24 24"
+  >
+    <path
+      fill="none"
+      stroke="currentColor"
+      stroke-width="2"
+      d="M9 7V1h14v10h-3v5l-5-4M1 7h14v11H9l-5 4v-4H1V7Z"
+    />
+  </svg>
+</template>
